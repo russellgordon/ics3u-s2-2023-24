@@ -110,7 +110,7 @@ body {
 }
 
 /* The remaining sections provide reasonable light/dark mode support */
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 
     /* Adapt to light/dark mode switch on system */
     :root {
@@ -133,7 +133,7 @@ body {
 
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
 
     :root {
         --background-primary: rgb(32, 31, 31);
