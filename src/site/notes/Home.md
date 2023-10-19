@@ -12,7 +12,7 @@
 ### Thread 1, Day 1 - Thursday, October 19, 2023
 #### Agenda
 1. [Computer Studies at LCS](https://drive.google.com/file/d/1moFeJKPkoIbtV_4aXU0EiVfD_iudTmlG/view?usp=sharing)
-	- Computer Studies is about talking to people to understand problems that you can help them solve using technology.
+	- Ultimately, Computer Studies is about talking to people to understand problems that you can help them solve using technology.
 2. [Course Outline](https://bit.ly/lcscs23-g11-sco)
 3. Activity: [[Activities/Parsing Instructions\|Parsing Instructions]]
 4. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
