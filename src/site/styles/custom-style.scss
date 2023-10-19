@@ -111,34 +111,28 @@ body {
 
 /* The remaining sections provide reasonable light/dark mode support */
 @media (prefers-color-scheme: light) {
-
-    /* Adapt to light/dark mode switch on system */
-    :root {
-        --background-primary: rgb(223, 224, 224);
-        --background-secondary: rgb(198, 199, 199);
-        --text-normal: #232221;
-    }
-
-    /* Dim video */
-    html body img,
-    html body iframe,
-    html body video {
-        opacity: .75;
-    }
-
-    /* Adjust callout tints */
-    .callout {
-        background-color: rgba(var(--callout-color), 0.4);
-    }
-
-}
-
-@media (prefers-color-scheme: dark) {
-
     :root {
         --background-primary: rgb(32, 31, 31);
         --background-secondary: rgb(57, 56, 56);
         --text-normal: #dcddde;
     }
-    
+}
+
+@media (prefers-color-scheme: dark) {
+
+    html {
+        filter: invert(100%);
+    }
+
+    html body img,
+    html body iframe,
+    html body video {
+        filter: invert(100%);
+        opacity: .75;
+    }
+
+    .callout {
+        background-color: rgba(var(--callout-color), 0.4);
+    }
+
 }
