@@ -110,16 +110,7 @@ body {
 }
 
 /* The remaining sections provide reasonable light/dark mode support */
-@media (prefers-color-scheme: light) {
-    :root {
-        --background-primary: rgb(32, 31, 31);
-        --background-secondary: rgb(57, 56, 56);
-        --text-normal: #dcddde;
-    }
-}
-
 @media (prefers-color-scheme: dark) {
-
     html {
         filter: invert(100%);
     }
@@ -127,12 +118,21 @@ body {
     html body img,
     html body iframe,
     html body video {
-        filter: invert(100%);
         opacity: .75;
     }
 
     .callout {
         background-color: rgba(var(--callout-color), 0.4);
+    }
+
+}
+
+@media (prefers-color-scheme: light) {
+
+    :root {
+        --background-primary: rgb(32, 31, 31);
+        --background-secondary: rgb(57, 56, 56);
+        --text-normal: #dcddde;
     }
 
 }
