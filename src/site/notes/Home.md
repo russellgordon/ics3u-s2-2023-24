@@ -9,7 +9,7 @@
 
 
 
-### Thread 1, Day 2 - Friday, October 19, 2023
+### Thread 1, Day 2 - Friday, October 20, 2023
 #### Agenda
 1. Portfolio: [[Portfolios/Creating a Notion Account\|Creating a Notion Account]]
 	- Get started with using Notion.
