@@ -14,11 +14,11 @@ Computers use the [[Concepts/Abstraction and Binary Numbers\|abstraction of bina
 
 How these 1's and 0's are stored at a physical level varies depending on the storage medium.
 
-For example, in a [compact disc](https://duckduckgo.com/?q=compact+disc) pits and lands are [used to register 1's or 0's](https://ecomputernotes.com/fundamental/input-output-and-memory/what-are-pits-and-lands-in-cds).
+For example, in a [compact disc](https://duckduckgo.com/?q=compact+disc&iax=images&ia=images#) pits and lands are [used to register 1's or 0's](https://ecomputernotes.com/fundamental/input-output-and-memory/what-are-pits-and-lands-in-cds).
 
 ## Bits
 
-A bit is a single piece of information – literally a 1 or a 0.
+A *bit* is a single piece of information – literally a 1 or a 0.
 
 As we just learned, we can use the abstraction of the base 2 number system to represent numbers in base 10.
 
@@ -27,7 +27,7 @@ Four bits can represent a *minimum* of zero:
 Value expressed as a power|$2^3$|$2^2$|$2^1$|$2^0$
 -|-|-|-|-
 Value expressed in standard form|$8$|$4$|$2$|$1$
-&nbsp|$0$|$0$|$0$|$0$
+&nbsp;|$0$|$0$|$0$|$0$
 
 $$
 \begin{aligned}
@@ -44,7 +44,7 @@ Four bits can represent a *maximum* of fifteen:
 Value expressed as a power|$2^3$|$2^2$|$2^1$|$2^0$
 -|-|-|-|-
 Value expressed in standard form|$8$|$4$|$2$|$1$
-&nbsp|$1$|$1$|$1$|$1$
+&nbsp;|$1$|$1$|$1$|$1$
 
 $$
 \begin{aligned}
