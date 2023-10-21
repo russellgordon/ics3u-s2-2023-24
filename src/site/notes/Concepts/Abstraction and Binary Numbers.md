@@ -101,7 +101,7 @@ So, this is how we know that $101$ in base 2 has a value of five in base 10.
 
 Expressed using symbols, that is: $101_2=5_{10}$
 
-### Another example
+#### Another example
 
 It is true that:
 
