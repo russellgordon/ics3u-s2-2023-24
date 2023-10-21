@@ -52,7 +52,7 @@ Value expressed as a power|$10^2$|$10^1$|$10^0$
 Value expressed in standard form|$100$|$10$|$1$
 &nbsp;|$1$|$0$|$1$
 
-... and in expanded, we know that:
+... and in expanded form, we know that:
 
 $$
 \begin{aligned}
