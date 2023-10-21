@@ -50,7 +50,7 @@ So when we are reading $101$ we are filling in the digits in the chart like so:
 Value expressed as a power|$10^2$|$10^1$|$10^0$
 -|-|-|-
 Value expressed in standard form|$100$|$10$|$1$
-&nbsp|$1$|$0$|$1$
+&nbsp;|$1$|$0$|$1$
 
 ... and in expanded, we know that:
 
@@ -81,7 +81,7 @@ It's all about the *base* of the power assigned to each place:
 Value expressed as a power|$2^2$|$2^1$|$2^0$
 -|-|-|-
 Value expressed in standard form|$4$|$2$|$1$
-&nbsp|$1$|$0$|$1$
+&nbsp;|$1$|$0$|$1$
 
 In expanded form:
 
@@ -106,7 +106,7 @@ How?
 Value expressed as a power|$2^3$|$2^2$|$2^1$|$2^0$
 -|-|-|-|-
 Value expressed in standard form|$8$|$4$|$2$|$1$
-&nbsp|$1$|$0$|$0$|$1$
+&nbsp;|$1$|$0$|$0$|$1$
 
 In expanded form:
 
