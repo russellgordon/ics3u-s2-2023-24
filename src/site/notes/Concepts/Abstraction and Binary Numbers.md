@@ -66,13 +66,17 @@ You've probably not thought of $101$ in quite that detailed a manner in a long t
 
 Going forward in this course, when we are writing numeric values, we must be careful to annotate the number system.
 
-We do this by appending a subscript. When we write $101$ and mean *one-hundred-and-one* – that is, we are using base 10 – we should write it like this instead: $$101_{10}$$
+We do this by appending a subscript. When we write $101$ and mean *one-hundred-and-one* – that is, we are using base 10 – we should write it like this instead:
+
+$$101_{10}$$
 
 ### Base 2
 
 In base 2, $101$ has a value of *five*.
 
-To indicate that we are expressing a value in base 2, we write it like this: $$101_{2}$$
+To indicate that we are expressing a value in base 2, we write it like this: 
+
+$$101_{2}$$
 
 So how does $101_{2}$ have a value of five?
 
@@ -99,7 +103,9 @@ Expressed using symbols, that is: $101_2=5_{10}$
 
 ### Another example
 
-It is true that: $$1001_2=9_{10}$$
+It is true that:
+
+$$1001_2=9_{10}$$
 
 How?
 
