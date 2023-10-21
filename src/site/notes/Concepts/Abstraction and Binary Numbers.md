@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/abstraction-and-binary-numbers/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/concepts/abstraction-and-binary-numbers/","dgHomeLink":true,"dgShowToc":true}
 ---
 
 # Abstraction and Binary Numbers
