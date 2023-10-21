@@ -10,7 +10,7 @@ High voltage, or *on*, corresponds to a 1.
 
 Low voltage, or *off*, corresponds to a 0.
 
-Computers work on the [[Concepts/Abstraction and Binary Numbers\|abstraction of binary numbers]] to represent numeric values.
+Computers use the [[Concepts/Abstraction and Binary Numbers\|abstraction of binary numbers]] to represent numeric values.
 
 How these 1's and 0's are stored at a physical level varies depending on the storage medium.
 
