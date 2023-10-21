@@ -21,7 +21,7 @@ From the menu bar at top left, choose **File > New > Playground...**:
 
 ![Pasted image 20231021072525.png|400](/img/user/Media/Pasted%20image%2020231021072525.png)
 
-You will see the following window – here, choose the **macOS** tab, then **Blank**, and then **Next**:
+You will see the following window – here, choose the ==**macOS**== tab, then **Blank**, and then **Next**:
 
 ![Pasted image 20231021072716.png|600](/img/user/Media/Pasted%20image%2020231021072716.png)
 
