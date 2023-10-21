@@ -21,7 +21,7 @@
 1. Concept: [Structures](https://russellgordon.ca/lcs/2023-24/ics3u/structures.pdf)
 	- Try out the examples described in this mini-lesson in the same playground you already have open.
 1. Exercise: Model Hockey Cards Data Using Structures
-	- Here is a [close-up of a retro-style hockey card for an imaginary player](https://russellgordon.ca/lcs/2023-24/ics3u/album-of-retro-75-custom-hockey-cards.jpg).
+	- Here is a [close-up of a retro-style hockey card for an imaginary player](https://russellgordon.ca/lcs/2023-24/ics3u/retro-75-hockey-card-template.jpg).
 	- Here is an image of [several similar cards](https://russellgordon.ca/lcs/2023-24/ics3u/album-of-retro-75-custom-hockey-cards.jpg).
 	- Write structure(s) in your playground to describe the data shown in the hockey cards.
 	- Then create *instances* of your structure for at least three hockey cards.
