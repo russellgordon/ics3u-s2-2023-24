@@ -108,7 +108,7 @@ Swift reports the data type as an integer, or `Int`:
 
 In Swift, on modern computers, an `Int` is [stored using *sixty-four* bits](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Int)!
 
-One bit is used to store the sign – that is, whether the number is positive or negative. 
+One bit is used to store the *sign* – that is, whether the number is positive or negative. 
 
 That leaves sixty-three bits to represent a range of values from  `-2,147,483,648` and `2,147,483,647`.
 
