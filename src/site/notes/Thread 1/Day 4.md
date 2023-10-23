@@ -17,7 +17,7 @@
 4. Concept: Computed Properties
 	- Structures can do more than just store values - they can calculate values as well.
 5. Exercise: Describing 2D and 3D Figures
-	- You have been randomly assigned [a 2D or 3D figure to work with](https://www.eqao.com/wp-content/uploads/g9-formula-sheet-academic.pdf).
+	- You have been randomly assigned [a 2D or 3D figure to work with](https://russellgordon.ca/lcs/2023-24/ics3u/g9-formula-sheet-academic.pdf).
 	- Create a [[Tutorials/Creating an Xcode Playground\|new Xcode playground]] named **Computed Properties Exercise**.
 	- Write a structure that models the figure you have been assigned.
 		- The structure should use stored properties and computed properties.
