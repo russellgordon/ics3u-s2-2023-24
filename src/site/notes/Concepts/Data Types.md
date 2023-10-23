@@ -56,13 +56,13 @@ $$
 
 So, $1111_2=15_{10}$
 
-## Variables, Constants, and Data Types
+## Variables, Constants, Data Types
 
 In your playground, the default code provided is:
 
 ![Screenshot 2023-10-21 at 8.47.37 AM.png|undefined](/img/user/Media/Screenshot%202023-10-21%20at%208.47.37%E2%80%AFAM.png)
 
-Run your playground by pressing the button in the lower left corner, or by pressing **Command-Shift-Return** on your keyboard.
+Run your playground by clicking the button in the lower left corner, or by pressing **Command-Shift-Return** on your keyboard.
 
 ![Screenshot 2023-10-21 at 8.44.33 AM.png|200](/img/user/Media/Screenshot%202023-10-21%20at%208.44.33%E2%80%AFAM.png)
 
