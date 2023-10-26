@@ -21,7 +21,7 @@
 	- Select at least five layouts [from these examples](https://russellgordon.ca/lcs/2023-24/ics3u/wireframes.pdf).
 	- Consult SwiftUI Views Mastery as a reference.
 	- Use the [playground we set up yesterday](https://russellgordon.ca/lcs/2023-24/ics3u/Blueprints.playground.zip) to make your wireframes.
-1. Optional Exercise: Create a "Bento-Box" Design
+1. Exercise: Create a "Bento-Box" Design
 	- Marketing teams must be able to convey new features in a concise manner to an audience.
 	- In recent years, Apple has used "Bento-Box" graphics to do so.
 	- Try to [[Media/Bento Box Example\|reproduce this image]] using SwiftUI, or use it as inspiration to design a bento-box themed view related to something you care about.
