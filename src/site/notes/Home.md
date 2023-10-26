@@ -17,13 +17,13 @@
 	- One of the ways Apple helps their developers provide that consistent look and feel is by offering a wide variety of built-in images that can be used in apps.
 	- Please [download and install](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-5.dmg) the SF Symbols app now. 
 	  > [!TIP]
-	> To use an SF Symbol within a SwiftUI layout, try the following code:
-	> ```swift
-	>  Image(systemName: "bolt")
-	>      .resizable()
-    >      .scaledToFit()
-     >      .frame(width: 20)
-	> ```
+	  > To use an SF Symbol within a SwiftUI layout, try the following code:
+	  > ```swift
+	  >   Image(systemName: "bolt")
+	  >       .resizable()
+	  >       .scaledToFit()
+	  >       .frame(width: 20)
+	  > ```
 1. Exercise: Create More Wireframe Layouts
 	- Select at least five layouts [from these examples](https://russellgordon.ca/lcs/2023-24/ics3u/wireframes.pdf).
 	- Consult SwiftUI Views Mastery as a reference.
