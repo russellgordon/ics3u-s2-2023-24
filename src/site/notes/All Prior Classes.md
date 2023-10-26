@@ -51,6 +51,9 @@
 	  > - cornerRadius
 	  > - gradient
 	  > - Image
+	  
+	  > [!TIP]
+	  > The keyboard shortcut `Option-Shift-K` produces the Apple logo.
 
 ###### Things to do before our next class
 - [ ] Complete the exercise on layout as described above, then write about what you learned in a portfolio entry on [Notion](https://notion.so).
