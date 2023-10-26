@@ -9,7 +9,7 @@
 	- Platform owners like Apple want their users to have a consistent experience when using apps written by different people.
 	- One of the ways Apple helps their developers provide that consistent look and feel is by offering a wide variety of built-in images that can be used in apps.
 	- Please [download and install](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-5.dmg) the SF Symbols app now. 
-	> [!TIP]
+	  > [!TIP]
 	> To use an SF Symbol within a SwiftUI layout, try the following code:
 	> ```swift
 	>  Image(systemName: "bolt")
