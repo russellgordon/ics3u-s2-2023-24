@@ -205,6 +205,18 @@ So, now, please make these edits to the `ContentView_Previews` structure – rem
 
 ![Screen Shot 2022-11-09 at 6.37.46 AM.png|undefined](/img/user/Media/Screen%20Shot%202022-11-09%20at%206.37.46%20AM.png)
 
+> [!NOTE]
+> 
+> Remember, in Xcode 15, the preview code looks like this:
+> 
+> ```swift
+> #Preview {
+>    ContentView()
+> }
+> ```
+> 
+> The screenshot above shows the syntax for Xcode 14. Just replace ContentView with the new code highlighted in dark blue in the screenshot above.
+
 `ContentView_Previews` now holds the `TabView`, so conceptually, this is what we have now:
 
 ```mermaid
