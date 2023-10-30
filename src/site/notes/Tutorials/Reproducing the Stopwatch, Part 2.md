@@ -160,24 +160,6 @@ Tabs are created in SwiftUI using a `TabView` structure.
 
 So, how does a `TabView` work?
 
-To answer that question, let's revisit something you already understand – a navigation view:
-
-![Simulator Screen Recording - iPhone 14 Pro - 2022-11-01 at 15.53.50.gif|200](/img/user/Media/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202022-11-01%20at%2015.53.50.gif)
-
-The `NavigationView` structure is essentially a container for moving *horizontally* between screens in your app:
-
-```mermaid
-flowchart LR
-
-id1["App Entry Point\n(NavigationView)"] --> id2["List\n(NavigationLink)"]
-id2 --> id3[Blue Jays]
-id2 --> id4[Cheesecake]
-id2 --> id5[Claire]
-id2 --> id6[Jen]
-id2 --> id7[Lasagna]
-id2 --> id8[Piper]
-```
-
 Think of a `TabView` structure as a container for moving between screens in a vertical manner, since we select the new screen by tapping at the *bottom* of the current screen:
 
 ![RPReplay_Final1667992125.gif|200](/img/user/Media/RPReplay_Final1667992125.gif)
@@ -246,7 +228,7 @@ Before we continue, you might be wondering about the `Image` structures that acc
 Image(systemName: "stopwatch.fill")
 ```
 
-Recall that at the start of this class, you installed the [SF Symbols App](https://developer.apple.com/sf-symbols/). You can browse available icons in the **SF Symbols** app. The app tells you what string, or piece of text, identifies each symbol. As shown above, to get a symbol to show in your app, you just:
+Recall that in an earlier class, you installed the [SF Symbols App](https://developer.apple.com/sf-symbols/). You can browse available icons in the **SF Symbols** app. The app tells you what string, or piece of text, identifies each symbol. As shown above, to get a symbol to show in your app, you just:
 
 - create an `Image` structure
 - provide the identifying string for a symbol as the *argument* to the `systemName` parameter
@@ -314,5 +296,5 @@ Made the selected tab item default to the Stopwatch.
 ```
 
 > [!TIP]
-> Now continue with [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Reproducing the Digital Stopwatch Interface, Part 3\|part 3 of this lesson]].
+> Now continue with [[Tutorials/Reproducing the Stopwatch, Part 3\|part 3 of this lesson]]
 
