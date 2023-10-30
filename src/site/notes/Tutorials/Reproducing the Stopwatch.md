@@ -17,18 +17,46 @@ As you complete this lesson you will learn to:
 - write custom structures to avoid repetitive code
 - use color sets in **Xcode** and the **Digital Color Meter** app to manage color
 - format a `List` structure
-- use a 'TabView' structure
+- use a `TabView` structure
 
 Let's get started!
 
+## Xcode 15 vs. Xcode 14
+
+This tutorial series was written a year ago using Xcode 14.
+
+It is designed to guide you through creating a real user interface, step by step, and so, it contains many screenshots and animations.
+
+Updating the tutorial to include all-new screenshots would be a large undertaking.
+
+Only minor things are different between Xcode 14 and Xcode 15:
+
+1. When you see references to the iPhone 14 series simulators, you can use iPhone 15 series simulators instead – everything will work the same way
+1. The code to show a preview in Xcode 15 is much shorter.
+
+Here is what the code to show a preview looks like in Xcode 14:
+
+```swift
+struct ContentView_Previews: PreviewProvider {
+	static var previews: some View {
+		ContentView()
+	}
+}
+```
+
+Here is what the code to show a preview looks like in Xcode 15:
+
+```swift
+#Preview {
+    ContentView()
+}
+```
+
+Just be aware that the this part of the code in your project will look a little different than what you see in the screenshots and animations.
+
 ## Creating the project
 
-Create a new project in Xcode:
-- for the **iOS** platform
-- of type **App**
-- named **StopwatchApp**
-
-Be sure to enable source control.
+Create a [[Tutorials/Creating a New iOS Project\|new iOS project in Xcode]] named **StopwatchApp**.
 
 When you're done, this is what you should have:
 
@@ -44,13 +72,15 @@ You can close the Inspector panel at right using `Option-Command-0` and resize t
 
 ![Screen Shot 2022-11-07 at 5.59.58 AM.png|undefined](/img/user/Media/Screen%20Shot%202022-11-07%20at%205.59.58%20AM.png)
 
-## Check source control and create a remote
+## Check source control
 
 Double-check that you enabled source control by opening the Source Control navigator with `Command-2` and then clicking the **Repositories** tab.
 
 If you see this, all is well:
 
 ![Screen Shot 2022-11-07 at 6.00.14 AM.png|undefined](/img/user/Media/Screen%20Shot%202022-11-07%20at%206.00.14%20AM.png)
+
+### Create a remote, if necessary
 
 If you don't see a local repository named `StopwatchApp` you can create it using the menu sequence **Source Control** → **New Git Repositories**. In the dialog box that appears, accept the default suggestion for the repository name and press the **Create** button.
 
@@ -108,7 +138,7 @@ Commit and push your work using `Option-Command-C` and use the commit message:
 Made the background color.
 ```
 
-# Showing the time
+## Showing the time
 
 A stopwatch counts up from zero and the current time is the most prominent part of the user interface.
 
@@ -215,7 +245,7 @@ This is good work, so let's commit and push with this message:
 Got the basic structure of the first circular button completed.
 ```
 
-## Creating a Custom Structure
+## Creating a custom Structure
 
 At this point the code within `ContentView` is getting somewhat long:
 
