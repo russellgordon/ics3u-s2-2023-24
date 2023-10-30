@@ -36,7 +36,7 @@ When you're done, this is what you should have:
 
 Make sure that have selected **iPhone 14 Pro** as the device to preview upon:
 
-![[Screen Shot 2022-11-07 at 6.23.53 AM.png\|700]]
+![Screen Shot 2022-11-07 at 6.23.53 AM.png|700](/img/user/Media/Screen%20Shot%202022-11-07%20at%206.23.53%20AM.png)
 
 In a future lesson you'll learn how to make layouts that work on devices of all sizes. For today, we'll make a layout that works well on this device.
 
