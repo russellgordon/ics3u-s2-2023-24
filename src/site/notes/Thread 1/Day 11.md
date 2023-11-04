@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 11 - Saturday, November 4, 2023
 #### Agenda
-1. Discussion: Pushing Commits to GitHub 
+1. Tutorial: [[Tutorials/Pushing Commits to GitHub\|Pushing Commits to GitHub]]
 2. Working Period
 	- Use today's class to work on the Stopwatch activity and then the Reminders activity described on Day 10.
 3. Task: [[Tasks/Reproduce an Interface\|Reproduce an Interface]]
