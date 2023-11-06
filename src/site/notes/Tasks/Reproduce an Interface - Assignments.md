@@ -70,7 +70,7 @@
 ### Xie, Yukun
 ![Pasted image 20231106062510.png|undefined](/img/user/Media/Pasted%20image%2020231106062510.png)
 ### Zhdanov, Nikita
-![Screenshot 2023-11-05 at 9.25.45 PM.png|undefined](/img/user/Media/Screenshot%202023-11-05%20at%209.25.45%E2%80%AFPM.png)
+![Pasted image 20231106131742.png|undefined](/img/user/Media/Pasted%20image%2020231106131742.png)
 ### Zhou, Ansheng
 ![Pasted image 20231106060537.png|undefined](/img/user/Media/Pasted%20image%2020231106060537.png)
 ### Zhou, Fiona
