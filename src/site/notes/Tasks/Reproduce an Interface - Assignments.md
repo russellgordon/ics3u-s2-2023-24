@@ -8,7 +8,7 @@
 
 Student|Interface
 -|-
-Cooper, AJ|![add-favorites-iphone-828a3ec1d60049b5a95182f1ce119c95.jpg|undefined](/img/user/Media/add-favorites-iphone-828a3ec1d60049b5a95182f1ce119c95.jpg)
+Cooper, AJ| ![add-favorites-iphone-828a3ec1d60049b5a95182f1ce119c95.jpg|undefined](/img/user/Media/add-favorites-iphone-828a3ec1d60049b5a95182f1ce119c95.jpg)
 Cunniffe, Veda|![Keypad.jpeg|undefined](/img/user/Media/Keypad.jpeg)
 Harrop, Lexi|![World Clock.jpeg|undefined](/img/user/Media/World%20Clock.jpeg)
 Larson, Charlie|![Alarms.jpg|undefined](/img/user/Media/Alarms.jpg)
