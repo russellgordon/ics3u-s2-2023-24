@@ -22,7 +22,7 @@ You have already written many views while learning about layout and designing in
 ## Model
 
 The *model* within an app stores the data and logic related to that data.
-
+ 
 What does that mean? 
 
 Let's look at an example – here is a model for a circle:
