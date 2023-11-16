@@ -8,6 +8,7 @@
 
 ### Thread 1
 
+- [[All Prior Classes#Thread 1, Day 15 - Thursday, November 16, 2023\|Day 15 - Thursday, November 16, 2023]]
 - [[All Prior Classes#Thread 1, Day 14 - Wednesday, November 15, 2023\|Day 14 - Wednesday, November 15, 2023]]
 - [[All Prior Classes#Thread 1, Day 13 - Wednesday, November 8, 2023\|Day 13 - Wednesday, November 8, 2023]]
 - [[All Prior Classes#Thread 1, Day 12 - Monday, November 6, 2023\|Day 12 - Monday, November 6, 2023]]
@@ -23,6 +24,23 @@
 - [[All Prior Classes#Thread 1, Day 2 - Friday, October 20, 2023\|Day 2 - Friday, October 20, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Thursday, October 19, 2023\|Day 1 - Thursday, October 19, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-15/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 15 - Thursday, November 16, 2023
+#### Agenda
+1. Concept: [[Concepts/Separation of Concerns\|Separation of Concerns]]
+	- Learn how to leverage existing code you have already written to write an interactive app.
+	- Learn how to keep user interface code (the view) separate from data and logic (the model).
+###### Things to do before our next class
+- [ ] Take half an hour to make further progress on the activities from today's class.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 1\|Back to top of thread 1 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-14/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
