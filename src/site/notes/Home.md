@@ -25,7 +25,7 @@
 > 
 > While Mr. Gordon is away with illness, use each class to make progress based on where *you* are, personally, with your learning. Some students have already completed items 1 and 2 above, so they should work on item 3. Some students have not completed any of these items, so they should begin with item 1.
 
-###### Things to do before our next class
+###### For Evening Study
 - [ ] Take a maximum of 30 minutes and make progress on one of the items listed above.
 - [ ] Be sure to continue posting on Notion to share progress and ask questions.
 	- Mr. Gordon is not well enough to be at school but will make an effort to send some replies and feedback through Notion.
