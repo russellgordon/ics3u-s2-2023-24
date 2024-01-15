@@ -12,7 +12,7 @@ Let's get started!
 
 This is a hybrid tutorial. 
 
-Rather that cover every edit from start to finish in writing, each chapter of the written tutorial will include a link to a chapter of a video hosted on YouTube. Only main concepts for each chapter of the tutorial will be outlined in writing.
+Rather that cover every edit from start to finish in writing, each chapter of the written tutorial will include a link to a chapter of a video hosted on YouTube. Only the main concepts for each chapter of the tutorial will be outlined in writing.
 
 > [!NOTE]
 > Further, at the moment, I am not feeling well; I have a confirmed case of COVID. I had intended to speak while recording this video, but I am just not up to it. So rather than speak during the video, I will add subtitles.
