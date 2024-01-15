@@ -19,9 +19,9 @@ Rather that cover every edit from start to finish in writing, each chapter of th
 > 
 > At the end of this tutorial I will send you to a survey. I'd love to take your feedback regarding how approachable you found this format for learning.
 
-## Project organization
+## Create the project and a remote
 
-[Open this chapter on YouTube]
+[Open this chapter on YouTube](https://www.youtube.com/watch?v=kr5WYqjg7Cw&t=0s)
 
 In this chapter you will:
 
@@ -41,6 +41,8 @@ When you are finished this chapter of the tutorial, your project in Xcode should
 
 ## Use Stickies to hold the reference image
 
+[Open this chapter on YouTube](https://www.youtube.com/watch?v=kr5WYqjg7Cw&t=153s)
+
 In this chapter you will:
 
 - open the Stickies app
@@ -54,6 +56,8 @@ When you are finished this chapter of the tutorial, your desktop should look lik
 ![Untitled 1.png](/img/user/Media/Untitled%201.png)
 
 ## Create a basic gradient
+
+[Open this chapter on YouTube](https://www.youtube.com/watch?v=kr5WYqjg7Cw&t=239s)
 
 In this chapter you will:
 
@@ -73,6 +77,8 @@ When you are finished this chapter of the tutorial, your desktop should look lik
 ![Untitled 2.png](/img/user/Media/Untitled%202.png)
 
 ## Apply abstraction to put gradient in its own view
+
+[Open this chapter on YouTube](https://www.youtube.com/watch?v=kr5WYqjg7Cw&t=542s)
 
 In this chapter you will:
 
