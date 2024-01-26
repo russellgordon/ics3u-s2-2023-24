@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 9 - Friday, January 26, 2024\|Day 9 - Friday, January 26, 2024]]
 - [[All Prior Classes#Thread 2, Day 8 - Tuesday, January 23, 2024\|Day 8 - Tuesday, January 23, 2024]]
 - [[All Prior Classes#Thread 2, Day 7 - Monday, January 22, 2024\|Day 7 - Monday, January 22, 2024]]
 - [[All Prior Classes#Thread 2, Day 6 - Friday, January 19, 2024\|Day 6 - Friday, January 19, 2024]]
@@ -36,6 +37,29 @@
 - [[All Prior Classes#Thread 1, Day 2 - Friday, October 20, 2023\|Day 2 - Friday, October 20, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Thursday, October 19, 2023\|Day 1 - Thursday, October 19, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 9 - Friday, January 26, 2024
+
+#### Agenda
+
+1. Concept: [[Concepts/Lists\|Lists]]
+	- How to store and use multiple pieces of data in an app by referring to just a single name.
+	- Please read this lesson for understanding, not speed of completion.
+	- Take notes for key terms that are *italicized* using whatever medium (paper, Notion post) you prefer.
+	- ==Be sure to complete the exercises== as you go.
+
+###### For Evening Study
+- [ ] Make a post [on Notion](https://notion.so) summarizing the key ideas of [[Concepts/Lists\|today's lesson]].
+	- Be sure to provide visual evidence of having completed the exercises (such as screenshots or short videos).
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
