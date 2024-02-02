@@ -239,7 +239,7 @@ The user is shown a clear error message – and then the program quits gracefull
 
 Here is an animation showing the flow of the program when bad input is provided:
 
-![Guard Statement Example.gif](/img/user/Media/Guard%20Statement%20Example.gif)
+![Guard Statement Example.gif|700](/img/user/Media/Guard%20Statement%20Example.gif)
 
 On the other hand, if the conversion of `givenInput` into an integer value succeeds, our program continues on.
 
