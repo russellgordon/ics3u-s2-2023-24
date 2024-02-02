@@ -265,7 +265,7 @@ It works as expected, telling us that the simulated input, `50`, is more than th
 
 Here is an animation of how the program flows through a `guard` statement when reasonable input is provided, and the conversion to an `Int` works:
 
-![Guard Statement Example – Conversion Works 2.gif](/img/user/Media/Guard%20Statement%20Example%20%E2%80%93%20Conversion%20Works%202.gif)
+![Guard Statement Example – Conversion Works 2.gif|700](/img/user/Media/Guard%20Statement%20Example%20%E2%80%93%20Conversion%20Works%202.gif)
 
 ## Summary so far
 
