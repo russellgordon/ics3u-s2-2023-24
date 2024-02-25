@@ -88,6 +88,7 @@ If you have a question about your work in a Computer Studies Program course, ple
 - [Ministry of Education Course of Study](https://bit.ly/lcscs23-g11-mco)
 - [[Learning Goals\|Learning Goals]]
 - [[Ontario Curriculum\|Ontario Curriculum]]
+- [[College Board Curriculum\|College Board Curriculum]]
 
 
 </div></div>
