@@ -39,14 +39,8 @@ ___
 
 
 
-Day|Time|Location
--|-|-
-Tuesday|1:30 PM to 2 PM|Room 36
-Friday|12:30 PM to 1 PM|Room 36
 
-Grove Time is a drop-in, no appointment needed.
-
-If you have a question, **don't hesitate**, come on by!
+**NOTE:** No Grove Time sessions this week. Please try an [[SIC Drop-In Sessions\|SIC Drop-In Session]], if you'd like some one-on-one help outside of class time.
 
 </div></div>
 
@@ -67,10 +61,9 @@ Here is this week's schedule:
 
 Day|Time|SIC|Location
 -|-|-|-
-Monday, February 26|12:30 PM to 1:30 PM|Quin|Room 36
-Tuesday, February 27|12:30 PM to 1:30 PM|Lawrence|Room 36
-Thursday, February 29|12:30 PM to 1:30 PM|Griffin|Room 36
-Friday, March 1|1:00 PM to 1:30 PM|Morgan|Room 36
+Monday, March 4|1:00 PM to 1:30 PM|Justin|Room 36
+Tuesday, March 5|12:30 PM to 1:30 PM|Quin|Room 36
+Wednesday, March 6|12:30 PM to 1:30 PM|Lawrence|Room 36
 
 If you have a question about your work in a Computer Studies Program course, please come by!
 
