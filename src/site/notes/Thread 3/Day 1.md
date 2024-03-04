@@ -12,7 +12,6 @@
 		- In fact, *not* all developers want to stay inside at the holidays
 		- "Weird eyes?!"
 	- What do *you* hear that's notable in this video?
-
 1. Activity: [App Design Journal](https://docs.google.com/presentation/d/1rHHJDzpL5ggf2Wy1OaUx2evWlTEAsTknsElhzbNZAfA/copy)
 	- Your learning path through the course is about to go like this: ⑃
 	- That is, when we come back from March Break, it's definitely the case that each of you will be learning different things to *bring the app **you** want to make* to life.
