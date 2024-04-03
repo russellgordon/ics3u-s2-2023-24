@@ -9,9 +9,11 @@
 
 Two classes ago, you learned how to query a single table in a database:
 
-	SELECT birth_date, first_name, last_name
-	FROM employees
-	WHERE emp_id BETWEEN 10004 AND 10008
+```sql
+SELECT birth_date, first_name, last_name
+FROM employees
+WHERE emp_id BETWEEN 10004 AND 10008
+```
 
 We use the `SELECT` keyword to identify <span style="color:lightpink;">columns</span> that should be included in the result.
 
@@ -29,14 +31,16 @@ The <span style="color:gold;">intersection</span> of the  included columns and r
 
 Aliases can be used to rename the header for a column in a result set:
 
-	SELECT 
-		birth_date AS "Date of birth",
-		first_name AS "First name",
-		last_name AS "Last name"
-	FROM
-		employees
-	WHERE
-		emp_id BETWEEN 10004 AND 10008
+```sql
+SELECT 
+	birth_date AS "Date of birth",
+	first_name AS "First name",
+	last_name AS "Last name"
+FROM
+	employees
+WHERE
+	emp_id BETWEEN 10004 AND 10008
+```
 
 ![Pasted image 20230331091937.png](/img/user/Media/Pasted%20image%2020230331091937.png)
 
@@ -57,20 +61,24 @@ Aggregate functions can be used to count or perform arithmetic on numeric values
 
 For example, we can find the lowest birth date within the same group of rows returned earlier with this query:
 
-	SELECT MIN(birth_date)
-	FROM employees
-	WHERE emp_id BETWEEN 10004 AND 10008
-	
+```sql
+SELECT MIN(birth_date)
+FROM employees
+WHERE emp_id BETWEEN 10004 AND 10008
+```
+
 ![Screenshot 2023-03-31 at 9.29.57 AM.png](/img/user/Media/Screenshot%202023-03-31%20at%209.29.57%20AM.png)
 
 ![Pasted image 20230331093047.png](/img/user/Media/Pasted%20image%2020230331093047.png)
 
 Further, if we combine the `MIN` function with a `GROUP BY` clause, we can find the lowest birth date within each gender group:
 
-	SELECT MIN(birth_date), gender
-	FROM employees
-	WHERE emp_id BETWEEN 10004 AND 10008
-	GROUP BY gender
+```sql
+SELECT MIN(birth_date), gender
+FROM employees
+WHERE emp_id BETWEEN 10004 AND 10008
+GROUP BY gender
+```
 
 In this case, values that exist in the `gender` column are `M` and `F`.
 
