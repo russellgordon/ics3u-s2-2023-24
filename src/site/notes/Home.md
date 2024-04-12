@@ -4,19 +4,32 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 8 - Tuesday, April 9, 2024
+### Thread 3, Day 9 - Friday, April 12, 2024
 #### Agenda
 
-1. Tutorial: [[Tutorials/Creating a To-do List App, Part 3\|Creating a To-do List App, Part 3]]
-	- Persist data created in the app to a database stored locally on the device.
+1. Tutorial: [[Tutorials/Creating a To-do List App, Part 4\|Creating a To-do List App, Part 4]]
+	- Learn how to use in-memory containers for Xcode Previews when working with the SwiftData framework.
+2. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
+	- Watch this 10-minute video to get a better understanding of how building quick prototypes can save you time when refining plans for an app.
+3. Setup: [Keynote](https://apps.apple.com/ca/app/keynote/id409183694?mt=12)
+	- Install the latest version of Keynote on your computer.
+	- You may first need to delete any existing copy of Keynote on your computer – please check your **Applications** folder.
+	- In our next class, Mr. Gordon will show you how to get started with using Keynote to build an interactive prototype of your app.
+4. Activity: Making a Prototype of Your App
+	- Review this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key).
+	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
+
+> [!NOTE]
+> 
+> The tutorial on how to build a version of the to-do list app that uses a cloud-hosted database has been deferred to a future class, so that you can have the weekend to begin working on your app prototype in Keynote.
 
 ###### Things to do before our next class
-- [ ] Complete the agenda item described above.
+- [ ] Complete the agenda items described above.
 	- Then share your progress in one or more updates [on Notion](https://notion.so).
 
 </div></div>
