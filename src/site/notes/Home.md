@@ -4,27 +4,24 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 10 - Saturday, April 13, 2024
+### Thread 3, Day 11 - Monday, April 15, 2024
 #### Agenda
 
 1. Activity: Making a Prototype of Your App
-	- Begin working on your app prototype in Keynote, using the resources included below.
-	- Modify this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key) so that it demonstrates the main parts of your app, instead of the example given.
-	- Use these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg) as needed.
-2. Portfolios: Mid-module Portfolio Reviews
-	- Significant areas we have addressed:
-		- Brainstorm app ideas and audiences
-		- How to query a database
-		- How to persist data within an app
-	- Meet privately with Mr. Gordon informally review your portfolio and propose a current level of achievement.
+	- If you have not yet, finish making a prototype of your app in Keynote.
+	- This is needed so that you can demo your app to a peer in class tomorrow, and receive feedback.
+	- This is hard deadline.
+1. Tutorial: [[Tutorials/Creating a To-do List App, Part 5\|Creating a To-do List App, Part 5]]
+	- Begin learning how to use Supabase to store data within a cloud-hosted database for your to-do list app.
 
 ###### Things to do before our next class
-- [ ] Make progress on your app prototype in Keynote.
+- [ ] Finish your app prototype in Keynote.
+- [ ] Continue with the [[Tutorials/Creating a To-do List App, Part 5\|next part of the to-do list tutorial]].
 	- Share your progress in one or more updates [on Notion](https://notion.so).
 
 </div></div>
