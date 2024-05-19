@@ -171,3 +171,5 @@ vm --> id3["<b>View(s)</b>\nPresent data"]
 id3 --> vm
 id4["Data is kept\n<em>in memory</em>\n<img src='/img/user/Media/ram.png' width='100'>"]
 ```
+
+<img src='/img/user/Media/ram.png' width='100'>
