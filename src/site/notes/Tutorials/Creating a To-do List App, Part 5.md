@@ -115,9 +115,10 @@ Visually, and in general, that looks like this:
 ```mermaid
 flowchart LR
 
-id1["Model\n(Describes data)"] --> id2["View Model\n(Manages the state of data)"]
-id2 --> id3["View(s)\n(Present data)"]
+id1["<b>Model</b>\nDescribes data"] --> id2["<b>View Model</b>\nManages the state of data"]
+id2 --> id3["<b>View(s)</b>\nPresent data"]
 id3 --> id2
+
 ```
 
 If necessary, the view model creates an initial, empty instance of whatever data structures are described by the model. Or the view model might load existing instances of data (for example, from a database).
