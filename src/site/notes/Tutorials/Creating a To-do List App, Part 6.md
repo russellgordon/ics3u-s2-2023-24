@@ -59,7 +59,7 @@ In part 5 you learned how to [[Tutorials/Creating a To-do List App, Part 5#Fetch
 
 Right-click and [[Tutorials/Creating a To-do List App, Part 5#Fetching table data\|open those instructions again]]. Follow them to refresh your memory so that you see output like this in the terminal:
 
-![Screenshot 2024-05-18 at 2.37.19 PM.png](/img/user/Media/Screenshot%202024-05-18%20at%202.37.19%E2%80%AFPM.png)
+![Screenshot 2024-05-18 at 2.37.19 PM.png|400](/img/user/Media/Screenshot%202024-05-18%20at%202.37.19%E2%80%AFPM.png)
 
 So, what is this information that was returned when we made our request to the database?
 
@@ -169,22 +169,5 @@ subgraph vm["<b>View Model</b>"]
 end
 vm --> id3["<b>View(s)</b>\nPresent data"]
 id3 --> vm
-id4["Data is kept\n<em>in memory</em>\n<div class="time-to-get-ill">
-  <style>
-    .icon {
-      width: 1em;
-      height: 1em;
-      vertical-align: -0.125em;
-    }
-  </style>
-  What time is it...
-  <svg xmlns="http://www.w3.org/2000/svg" class="icon" aria-hidden="true" focusable="false" viewBox="0 0 512 512">
-    <path
-      fill="currentColor"
-      d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"
-    />
-  </svg>
-</div>"]
+id4["Data is kept\n<em>in memory</em>\n<img src='/img/user/Media/ram.png' width='100'>"]
 ```
-
-
