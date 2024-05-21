@@ -594,11 +594,11 @@ This command uses `curl` to request a web page from the Supabase web server. It 
 
 So, now, paste that command into your **Terminal** window:
 
-![Screenshot 2024-04-15 at 8.16.46 AM.png|400](/img/user/Media/Screenshot%202024-04-15%20at%208.16.46%E2%80%AFAM.png)
+![Screenshot 2024-04-15 at 8.16.46 AM.png|500](/img/user/Media/Screenshot%202024-04-15%20at%208.16.46%E2%80%AFAM.png)
 
 ... then press the **Return** key:
 
-![Screenshot 2024-04-15 at 8.17.09 AM.png|400](/img/user/Media/Screenshot%202024-04-15%20at%208.17.09%E2%80%AFAM.png)
+![Screenshot 2024-04-15 at 8.17.09 AM.png|500](/img/user/Media/Screenshot%202024-04-15%20at%208.17.09%E2%80%AFAM.png)
 
 You should see output that provides the contents of the `todos` table.
 
