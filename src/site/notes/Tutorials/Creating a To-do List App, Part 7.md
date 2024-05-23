@@ -3,7 +3,7 @@
 ---
 
 
-# Creating a To-do List App, Part 6
+# Creating a To-do List App, Part 7
 
 In [[Tutorials/Creating a To-do List App, Part 6\|part six]] of this task, you learned how to implement all the functionality required to create, read, update, and delete data from a database hosted at Supabase. That knowledge will be directly applicable to the app you build for your culminating task.
 
