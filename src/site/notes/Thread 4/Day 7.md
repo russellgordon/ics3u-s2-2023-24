@@ -7,7 +7,7 @@
 
 1. Culminating Task: Create Static Interfaces
 	- You have one more day to work on your static interfaces this week.
-		- Use your Keynote prototypes as a reference.
+		- Use your Keynote prototypes as a reference. 
 		- Be sure to use [[Media/SwiftUI Views Mastery\|SwiftUI Views Mastery]] as a reference while building out static interfaces.
 		> [!TIP]
 		> If you prefer, rather than making a truly static interface (where data is embedded in views as string literals) you can can instead [[Concepts/Abstraction Using Lists\|store data in arrays and apply abstraction]] (which makes building an app out easier).
