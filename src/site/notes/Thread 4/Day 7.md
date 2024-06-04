@@ -12,7 +12,7 @@
 		> [!TIP]
 		> If you prefer, rather than making a truly static interface (where data is embedded in views as string literals) you can can instead [[Concepts/Abstraction Using Lists\|store data in arrays and apply abstraction]] (which makes building an app out easier).
 		- Remember to use source control – commit and push your work frequently.
-		> [!REMINDEr]
+		> [!REMINDER]
 		> 
 		> Next week, with guidance from Mr. Gordon, you will design, create, and populate your app's database.
 		> 
