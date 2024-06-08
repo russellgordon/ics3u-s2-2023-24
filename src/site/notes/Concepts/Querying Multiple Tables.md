@@ -353,17 +353,17 @@ Mr. Gordon then committed his work.
 
 ##### Adding a cities list view
 
-What we really want to do, though, is navigate from our list of countries to a list of cities in that country.
+What we really want to do, though, is navigate from our list of countries to another list that shows the cities in that country.
 
 So, Mr. Gordon added a new view named `CitiesListView` that accepts a single country:
 
 ![Screenshot 2024-06-08 at 3.06.50 PM.png](/img/user/Media/Screenshot%202024-06-08%20at%203.06.50%E2%80%AFPM.png)
 
-He then modified the `CountriesListView` so that it navigates down to  `CitiesListView`:
+He then modified the `CountriesListView` so that it provides navigation down to  `CitiesListView`:
 
 ![Screenshot 2024-06-08 at 3.04.16 PM.png](/img/user/Media/Screenshot%202024-06-08%20at%203.04.16%E2%80%AFPM.png)
 
-Now the app works as follows:
+The app now works as follows:
 
 ![RocketSim_Recording_iPhone_15_Pro_6.1_2024-06-08_15.07.34.gif|350](/img/user/Media/RocketSim_Recording_iPhone_15_Pro_6.1_2024-06-08_15.07.34.gif)
 
