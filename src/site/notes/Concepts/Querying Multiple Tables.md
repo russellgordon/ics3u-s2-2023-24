@@ -90,7 +90,7 @@ INSERT INTO City (name, country_id) VALUES ('Mexico City', 5);
 INSERT INTO City (name, country_id) VALUES ('Guadalajara', 5);
 ```
 
-> ### Explanation:
+> **Explanation:**
 > 1. **Country Table**:
 >    - `id`: Unique identifier for each country (Primary Key).
 >    - `name`: Name of the country.
@@ -100,7 +100,7 @@ INSERT INTO City (name, country_id) VALUES ('Guadalajara', 5);
 >    - `name`: Name of the city.
 >    - `country_id`: Foreign key referencing the `id` column in the `Country` table, establishing the relationship between cities and their respective countries.
 > 
-> ### Sample Data:
+> **Sample Data:**
 > - **Countries**:
 >   - Canada
 >   - United States
