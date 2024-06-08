@@ -370,3 +370,4 @@ Now the app works as follows:
 This illustrates how to read data from two database tables – `country` and `city` – when a one to many relationship exists between them.
 
 Mr. Gordon then committed his work.
+
