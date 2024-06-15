@@ -94,7 +94,7 @@
 ###### Things to do before 9 PM
 - [ ] Prepare for your end-of-year interview by completing your slide deck.
 
-###### Things to do tomorrow until 12:30 PM (Half Past Noon)
+###### Things to do before tomorrow at 12:30 PM (Half Past Noon)
 - [ ] If necessary, you can work on polishing off your Culminating Task portfolio entry – use [this exemplar as a guide](https://lakefieldcs.notion.site/Culminating-Task-a74824bb7ac44200b3fd620e408bfe3e).
 
 </div></div>
