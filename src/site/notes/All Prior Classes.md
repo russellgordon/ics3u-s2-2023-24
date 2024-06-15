@@ -81,6 +81,13 @@
 
 
 ### Thread 4, Day 14 - Monday, June 17, 2024
+
+> [!IMPORTANT]
+> 
+> You might be wondering – why am I seeing a post for Monday when today is... not Monday?
+> 
+> Please watch [this video to find out why](https://youtu.be/xJXgmdIlS8c) – I'm trying to help everyone in this class have the same amount of time to prepare for their end-of-year interview as students in the other section of Grade 11 Intro to Computer Science.
+
 #### Agenda
 
 1. Culminating Task: End-of-year Interview Prep
