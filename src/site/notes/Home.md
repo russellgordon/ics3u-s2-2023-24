@@ -11,12 +11,6 @@
 
 ### Thread 4, Day 14 - Monday, June 17, 2024
 
-> [!IMPORTANT]
-> 
-> You might be wondering – why am I seeing a post for Monday when today is... not Monday?
-> 
-> Please watch [this video to find out why](https://youtu.be/xJXgmdIlS8c) – I'm trying to help everyone in this class have the same amount of time to prepare for their end-of-year interview as students in the other section of Grade 11 Intro to Computer Science.
-
 #### Agenda
 
 1. Culminating Task: End-of-year Interview Prep
@@ -24,7 +18,8 @@
 		- Then, immediately [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSc7JIyrwqPGA57S83uIyOR6v8pharKDOkY_hGguHLV17Nycmg/viewform)
 			- Deadline for slides to be completed is today, ==Monday, at 9 PM==
 		- We will now discuss the prompts in the slide deck, and how to prepare for your interview tomorrow, on Tuesday morning
-	- Here is the order of interviews for Tuesday morning:
+			- After the fact, or if you prefer during class, you [can watch the video which explains how to prepare for your interview](https://youtu.be/xJXgmdIlS8c)
+	- Here is the order of interviews for tomorrow, Tuesday, morning:
 		- ==(will be generated and added live in class)==
 
 ###### Things to do before 9 PM
