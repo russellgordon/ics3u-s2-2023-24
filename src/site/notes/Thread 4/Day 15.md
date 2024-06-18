@@ -7,7 +7,7 @@
 
 1. Culminating Task: Interview
 	- Here is the order of interviews for this morning:
-		- ==(to be filled in)==
+		- ![Screenshot 2024-06-17 at 3.29.34 PM.png](/img/user/Media/Screenshot%202024-06-17%20at%203.29.34%E2%80%AFPM.png)
 	- Please wait on the bench outside room 36 when your interview is next.
 		- For example, FIRST_STUDENT will wait outside the room while SECOND_STUDENT completes their interview, and so on.
 	- At some point this morning, please [complete the course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmvIZXN9pe1XHMGAWcWz716M1WodD4R1bE3mT5NGILQpX6vg/viewform).
