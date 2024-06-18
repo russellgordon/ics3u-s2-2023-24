@@ -13,7 +13,7 @@
 		- We will now discuss the prompts in the slide deck, and how to prepare for your interview tomorrow, on Tuesday morning
 			- After the fact, or if you prefer during class, you [can watch the video which explains how to prepare for your interview](https://youtu.be/xJXgmdIlS8c)
 	- Here is the order of interviews for tomorrow, Tuesday, morning:
-		- ==(will be generated and added live in class)==
+		- ![Screenshot 2024-06-17 at 3.29.34 PM 1.png](/img/user/Media/Screenshot%202024-06-17%20at%203.29.34%E2%80%AFPM%201.png)
 
 ###### Things to do before 9 PM
 - [ ] Prepare for your end-of-year interview by completing your slide deck.
