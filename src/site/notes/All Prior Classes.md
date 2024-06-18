@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 15 - Tuesday, June 18, 2024\|Day 15 - Tuesday, June 18, 2024]]
 - [[All Prior Classes#Thread 4, Day 14 - Monday, June 17, 2024\|Day 14 - Monday, June 17, 2024]]
 - [[All Prior Classes#Thread 4, Day 13 - Thursday, June 13, 2024\|Day 13 - Thursday, June 13, 2024]]
 - [[All Prior Classes#Thread 4, Day 12 - Wednesday, June 12, 2024\|Day 12 - Wednesday, June 12, 2024]]
@@ -75,6 +76,33 @@
 
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-15/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 15 - Tuesday, June 18, 2024
+#### Agenda
+
+1. Culminating Task: Interview
+	- Here is the order of interviews for this morning:
+		- ![Screenshot 2024-06-17 at 3.29.34 PM.png](/img/user/Media/Screenshot%202024-06-17%20at%203.29.34%E2%80%AFPM.png)
+	- Please wait on the bench outside room 36 when your interview is next.
+		- For example, FIRST_STUDENT will wait outside the room while SECOND_STUDENT completes their interview, and so on.
+	- At some point this morning, please [complete the course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmvIZXN9pe1XHMGAWcWz716M1WodD4R1bE3mT5NGILQpX6vg/viewform).
+		- This form is anonymous.
+		- Your constructive feedback is valued – thank-you in advance for your time with this.
+	- By 12:30 PM (half past noon), be sure that you have finished filling in your Culminating Task portfolio entry – use [this exemplar as a guide](https://lakefieldcs.notion.site/Culminating-Task-a74824bb7ac44200b3fd620e408bfe3e).
+
+> [!IMPORTANT]
+> 
+> Most of you will be dismissed at 11:30 AM. Please wait until I come out to dismiss you. Until then, to minimize traffic and noise in the academic block, please stay in Hadden Hall, with the exception of essential trips to the washroom. 
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-14/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -91,7 +119,7 @@
 		- We will now discuss the prompts in the slide deck, and how to prepare for your interview tomorrow, on Tuesday morning
 			- After the fact, or if you prefer during class, you [can watch the video which explains how to prepare for your interview](https://youtu.be/xJXgmdIlS8c)
 	- Here is the order of interviews for tomorrow, Tuesday, morning:
-		- ==(will be generated and added live in class)==
+		- ![Screenshot 2024-06-17 at 3.29.34 PM 1.png](/img/user/Media/Screenshot%202024-06-17%20at%203.29.34%E2%80%AFPM%201.png)
 
 ###### Things to do before 9 PM
 - [ ] Prepare for your end-of-year interview by completing your slide deck.
